@@ -1,0 +1,60 @@
+{
+  "name": "react-projectile-motion",
+  "version": "1.0.0",
+  "description": "抛物运动组件 / projectile motion component",
+  "main": "build/bundle.js",
+  "author": {
+    "name": "zhangxunjia",
+    "email": "979688837@qq.com"
+  },
+  "bugs": {
+    "email": "979688837@qq.com"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "pubsub-js": ">=1.9.4",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "repository": "https://github.com/zhangxunjia/react-projectile-motion.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/plugin-syntax-jsx": "^7.22.5",
+    "@babel/plugin-transform-runtime": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "animate.css": "^4.1.1",
+    "pubsub-js": "^1.9.4",
+    "styled-components": "^6.0.6"
+  },
+  "keywords": [
+    "抛物",
+    "小球",
+    "购物车",
+    "飞",
+    "弧度",
+    "projectile",
+    "motion",
+    "ball",
+    "shopcar",
+    "fly",
+    "radian"
+  ]
+}
