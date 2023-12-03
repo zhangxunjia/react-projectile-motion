@@ -18,9 +18,9 @@ npm install react-projectile-motion
 ```
 
 ## ❗依赖
-pubsub-js  v1.x及以上
-react v16.8.0 及以上
-react-dom v16.8.0 及以上
+pubsub-js  v1.x及以上  
+react v16.8.0 及以上   
+react-dom v16.8.0 及以上  
 
 ## 👻demo
 <a href="https://zhangxunjia.github.io/react-projectile-motion-demo/" >https://zhangxunjia.github.io/react-projectile-motion-demo/</a>

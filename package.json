@@ -1,6 +1,6 @@
 {
   "name": "react-projectile-motion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "抛物运动组件 / projectile motion component",
   "main": "build/bundle.js",
   "author": {
