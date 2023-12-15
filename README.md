@@ -7,7 +7,11 @@ English | [简体中文](./README-zh_CN.md)
 ## 👀️ Introduce
 
 - This component is a projectile motion component. Theoretically, the motion trajectory can be from any point on the page to any other point.
-- projectile starts from the center position of the incoming startingDom and ends at the center position of endingDom
+- Support user-defined starting and ending positions for projectile motion
+- Support user-defined projectile
+- Support user-defined projectile motion end callback function
+- Support user-defined animation effects and callback functions after projectile hitting endingDom
+- projectile starts from the center position of the startingDom and ends at the center position of endingDom
 
 <center><img src="https://raw.githubusercontent.com/zhangxunjia/pictures/main/react-projectile-motion/projectile.png" alt="projectile" style="width: 100%;" /></center>
 
@@ -22,7 +26,7 @@ pubsub-js  version 1.x and above
 react  version 16.8.0 and above   
 react-dom  version 16.8.0 and above  
 
-## 👻 Demo
+## 👻 Demo (Suitable configuration items can be found in the demo)
 <a href="https://zhangxunjia.github.io/react-projectile-motion-demo/" >https://zhangxunjia.github.io/react-projectile-motion-demo/</a>
 
 ## ✍️ Usage
