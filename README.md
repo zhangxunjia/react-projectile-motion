@@ -7,6 +7,7 @@ English | [简体中文](./README-zh_CN.md)
 ## 👀️ Introduce
 
 - This component is a projectile motion component. Theoretically, the motion trajectory can be from any point on the page to any other point.
+- Applicable scenarios include small balls flying into shopping carts, ball sports, and other special effects related to throwing sports
 - Support user-defined starting and ending positions for projectile motion
 - Support user-defined projectile
 - Support user-defined projectile motion end callback function
